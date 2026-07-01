@@ -47,7 +47,7 @@ export default function Education() {
                     <Calendar className="h-3 w-3" />
                     {item.year}
                   </span>
-                  <p className="text-sm font-semibold text-indigo-600 dark:text-indigo-400 mt-2">Shah Abdul Latif University</p>
+                  <p className="text-sm font-semibold text-indigo-600 dark:text-indigo-400 mt-2">The Benazir Bhutto Shaheed University of Technology and Skills Development Khairpur Mirs</p>
                   <p className="text-xs text-slate-400 dark:text-slate-500 mt-1">Undergraduate Program</p>
                 </motion.div>
               </div>
