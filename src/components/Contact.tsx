@@ -156,7 +156,7 @@ export default function Contact() {
                       Phone Number
                     </p>
                     <p className="text-sm sm:text-base text-slate-700 dark:text-slate-300 font-medium">
-                      +92 (312) 345-6789
+                      +92 (322) 870-4472
                     </p>
                   </div>
                 </div>
