@@ -174,7 +174,7 @@ export default function Hero({ onOpenCVModal }: HeroProps) {
                   <img
                     src={profileImage}
                     alt="Aadil Mehdi"
-                    className="w-56 h-56 md:w-64 md:h-64 rounded-full object-cover border-4 border-purple-500 shadow-2xl transition-transform duration-500 group-hover:scale-105"
+                    className="absolute inset-0 Xw-full h-full object-cover rounded-full group-hover:scale-105 transition-transform duration-500"
                   />
                   {/* Student Title Indicator */}
                   <div className="mt-4 px-4 py-1 rounded-full bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 text-xs font-semibold uppercase tracking-wider">
