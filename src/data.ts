@@ -30,7 +30,7 @@ export const portfolioData = {
     {
       year: "2023 - Present",
       title: "BS Computer Science",
-      subtitle: "Shah Abdul Latif University (or equivalent) • 3rd Year",
+      subtitle: "The Benazir Bhutto Shaheed University of Technology and Skills Development Khairpur Mirs (or equivalent) • 3rd Year",
       description: "Focusing on core computer science foundations, databases, and software design paradigms. Currently maintaining an excellent academic record while building practical projects.",
       details: [
         "Semester Progress: Currently in 6th Semester (3rd Year)",
